@@ -5,6 +5,6 @@ public interface Test {
 	String info();
 	
 	int calc(int a, int b);
+//	double calc(double a, double b);
 	
-
 }
